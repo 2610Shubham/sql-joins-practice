@@ -76,7 +76,7 @@ ORDER BY avg_rating;
 ```
 
 
-###6. Reviewer Activity Summary
+### 6. Reviewer Activity Summary
 ```sql
 SELECT 
     first_name,
