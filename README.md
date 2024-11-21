@@ -132,3 +132,12 @@ FROM
 WHERE
     rating >= 4.5;
 ```
+
+
+--- 
+
+## Contributing
+
+Feel free to fork this repository and add more queries or suggest improvements. Pull requests are welcome!
+
+---
