@@ -142,4 +142,10 @@ Feel free to fork this repository and add more queries or suggest improvements. 
 
 ---
 
+## Conclusion
+
+This repository provides a comprehensive set of SQL queries designed to practice various join operations and aggregate functions using a mock database schema. 
+The queries cover real-world scenarios such as displaying series ratings, calculating averages, identifying inactive reviewers, and filtering data based on specific conditions.
+
+
 
